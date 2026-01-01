@@ -1,5 +1,5 @@
 # GFX
-Plugins to draw on windows Forms
+Plugin to draw on windows Forms
 
 ```Javascript
 var running;
